@@ -1,0 +1,19 @@
+{
+  "name": "jwt-press",
+  "version": "1.0.0",
+  "description": "authentication service with node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsamirali/jwt-press.git"
+  },
+  "author": "akprog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsamirali/jwt-press/issues"
+  },
+  "homepage": "https://github.com/itsamirali/jwt-press#readme"
+}
