@@ -4,6 +4,8 @@
   "description": "authentication service with node.js and express",
   "main": "index.js",
   "scripts": {
+    "authorizeService": "nodemon authorizeService.js",
+    "postsService": "nodemon postsService.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,8 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }
